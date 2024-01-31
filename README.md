@@ -1,6 +1,7 @@
 # LAB - Class xx
 
 Project: Web Scraping
+
 Author: Andrea Riley(Thiel)
 
 ## Feature Tasks
@@ -12,21 +13,8 @@ Author: Andrea Riley(Thiel)
   - E.g. Citation needed for “lorem spam and impsum eggs”
   - Consider the “relevant passage” to be the parent element that contains the passage, often a paragraph element.
 
-## Links and Resources
-
-back-end server url (when applicable)
-front-end application (when applicable)
-
 ## Setup
 
-.env requirements (where applicable)
-i.e.
+How to initialize/run your application:
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
-
-
+python web_scraper/scraper.py
